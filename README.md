@@ -5,7 +5,7 @@ AI Interior Editor is a Streamlit-based application that enables object-level ed
 
 Requirements:
 Python 3.9 or higher,
-Required packages listed in requirements.txt,
+Required packages listed in requirements,
 YOLOv8 segmentation model file yolov8n-seg.pt,
 Furniture PNG assets organized by category inside the assets folder
 
