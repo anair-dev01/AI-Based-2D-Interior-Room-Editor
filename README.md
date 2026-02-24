@@ -11,7 +11,7 @@ Furniture PNG assets organized by category inside the assets folder
 
 Setup:
 Clone the repository,
-Install dependencies using pip install -r requirements.txt,
+Install dependencies using mentioned in requirements,
 Place the model file in the project root directory,
 Ensure asset folders contain transparent PNG images
 
